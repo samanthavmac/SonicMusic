@@ -45,8 +45,8 @@ public class PlaylistController {
     // Spotify Fields
     private final SpotifyApi spotifyApi;
     // Spotify authenticator fields
-    private static final String CLIENT_ID = "7b4c852c3ee84e659a098507489062fb"; // From my Spotify Developer API
-    private static final String CLIENT_SECRET = "7388a69791484be9a01c5a648edef61a";
+    private static final String CLIENT_ID = "";
+    private static final String CLIENT_SECRET = "";
     private static final String REDIRECT_URI = "http://localhost:8888/callback";
 
     // Default Constructor

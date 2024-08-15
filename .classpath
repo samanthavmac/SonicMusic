@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/httpclient5-cache-5.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/httpclient5-5.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/httpcore5-5.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/spotify-web-api-java-8.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/jackson-databind-2.15.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/nv-i18n-1.27.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/junit-jupiter-5.9.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/mockito-core-5.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/slf4j-simple-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/wiremock-3.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/okhttp-4.9.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/okio-2.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/json-20210307.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/spotify-web-api-java-7.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="/Users/Samantha/Eclipse Workspace/cs-12-2024/SonicMusic/lib/slf4j-simple-1.7.32.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
